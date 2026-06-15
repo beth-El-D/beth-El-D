@@ -44,6 +44,7 @@ Focused on transforming complex business problems into **clean, efficient, and p
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge\&logo=next.js)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 ### Backend
 
